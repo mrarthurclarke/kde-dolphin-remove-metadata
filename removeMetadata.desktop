@@ -8,5 +8,6 @@
  Name=Remove Metadata
  Name[nl]=Metagegevens wissen
  Name[pl]=Usuń Metadane
+ Name[ru]=Удалить метаданные
  Icon=document-cleanup
  Exec=exiftool -all= %U -overwrite_original
